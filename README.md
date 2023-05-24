@@ -3,6 +3,8 @@ Assessment Task 3
 Group project: Design and develop an application
 AdoptMe : a pet Adoption App 
 
+link for the project : https://github.com/jenolpinto/Jenol.git
+
 Team Members :
 Kazi Junayed Hossain 24704379
 Muhammad Sufyan 24875573
